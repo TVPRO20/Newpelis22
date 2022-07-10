@@ -7740,8 +7740,12 @@ https://archive.org/download/androflix_202109/tutoriales/redhat.mkv
 
 
 #EXTM3U
+#EXTINF:-1 group-title="peliculas" tvg-logo="", Father Stu | REGIOFLIX
+http://regioplay.xyz/825022/Father.Stu.2022.lati.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/16/09/52/4570178.jpg", Fresh | REGIOFLIX
+http://regioplay.xyz/825022/Fresh.2022.lati.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://pbs.twimg.com/media/FMsT8vGXEAU3yrL.jpg:large", Animales Fantasticos Los Secretos de Dumbledore | REGIOFLIX
-http://regioplay.xyz/php/SR_REGIO_715022_/Fantastic.Beasts.The.Secrets.of.Dumbledore.php?f=.mp4
+http://regioplay.xyz/php/SR_REGIO_526022_/Fantastic.Beasts.The.Secrets.of.Dumbledore.php?f=.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.cinelinx.com/wp-content/uploads/2022/04/Chip-n-Dale-Poster.jpg", Chip and Dale 2022 | REGIOFLIX
 http://regioplay.xyz/825022/Chip.n.Dale.Rescue.Rangers.SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NkNjdlODMtZTZiYi00OWUwLTliNDAtOGZhMThjNmVhYmQxXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg", Memory: Asesino sin memoria | REGIOFLIX
@@ -7755,33 +7759,33 @@ http://regioplay.xyz/825022/Uncharted.2022.SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://iforum-sg.c.hihonor.com/latin/latin_data/images/2022/4/23/d8eb4de1-f6a0-402c-9d67-d56cd3dbf5d0.jpg", 365 dias Aquel dia | REGIOFLIX
 http://regioplay.xyz/825022/365.Dias.Aquel.dia.SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.mubis.es/media/articles/30785/296850/trailer-y-poster-final-de-jackass-forever-original.jpg", Jackass Forever | REGIOFLIX
-http://regioplay.xyz/php/SR_REGIO_715022_/jackass.forever.php?f=.mp4
+http://regioplay.xyz/php/SR_REGIO_526022_/jackass.forever.php?f=.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWIwMTlkMTktNGY1NC00YzI3LTk0NzgtYzg4YjY3YjkzYTU1XkEyXkFqcGdeQXVyMjM4MTU4NjQ@._V1_.jpg", Toothfairy 3 | REGIOFLIX
-http://regioplay.xyz/php/SR_REGIO_715022_/toothfairy.3.php?f=.mp4
+http://regioplay.xyz/php/SR_REGIO_526022_/toothfairy.3.php?f=.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://img.ecartelera.com/noticias/fotos/66900/66992/2.jpg", Spider Man No Way Home 2021 | REGIOFLIX
 http://regioplay.xyz/825022/SpiderManNoWayHome2021.SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/scream-scream-5-2497975.jpg?itok=1QG1ZnrG", Scream 5 2022 | REGIOFLIX
 http://regioplay.xyz/825022/Scream5Grita.SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://img.aullidos.com/imagenes/caratulas/matanza-texas-2022.jpg", Masacre en Texas 2022 | REGIOFLIX
-http://regioplay.xyz/php/SR_REGIO_715022_/masacreentexas2022.php?f=.mp4
+http://regioplay.xyz/php/SR_REGIO_526022_/masacreentexas2022.php?f=.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://comoacaba.com/wp-content/uploads/2022/02/1pOdSYjmnX61Nh9sMyztwnPJe98.jpg", Venganza a Golpes | REGIOFLIX
-http://regioplay.xyz/php/SR_REGIO_715022_/golpesdevenganza.php?f=.mp4
+http://regioplay.xyz/php/SR_REGIO_526022_/golpesdevenganza.php?f=.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://adeymovies.com/wp-content/uploads/2021/05/Riverdance-The-Animated-Adventure-2021.jpg", Riverdance | REGIOFLIX
-http://regioplay.xyz/php/SR_REGIO_715022_/riverdance.php?f=.mp4
+http://regioplay.xyz/php/SR_REGIO_526022_/riverdance.php?f=.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/2022/02/KIMI-poster.jpg?fit=696%2C1031&ssl=1", Kimi | REGIOFLIX
-http://regioplay.xyz/php/SR_REGIO_715022_/kimi.php?f=.mp4
+http://regioplay.xyz/php/SR_REGIO_526022_/kimi.php?f=.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.ecartelera.com/carteles/1400/1460/003.jpg", Volver al futuro | REGIOFLIX
-http://regioplay.xyz/php/SR_REGIO_715022_/volver.php?f=.mp4
+http://regioplay.xyz/php/SR_REGIO_526022_/volver.php?f=.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/51URcEemjTL._AC_.jpg", Volver al futuro 2 | REGIOFLIX
-http://regioplay.xyz/php/SR_REGIO_715022_/volver2.php?f=.mp4
+http://regioplay.xyz/php/SR_REGIO_526022_/volver2.php?f=.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg", Volver al futuro 3 | REGIOFLIX
-http://regioplay.xyz/php/SR_REGIO_715022_/volver3.php?f=.mp4
+http://regioplay.xyz/php/SR_REGIO_526022_/volver3.php?f=.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/91/f7/f1/91f7f1bfc1232cb4b192c2a45a3c8015.jpg", Sangre por Sangre | REGIOFLIX
-http://regioplay.xyz/php/SR_REGIO_715022_/sangrexsangre.php?f=.mp4
+http://regioplay.xyz/php/SR_REGIO_526022_/sangrexsangre.php?f=.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/screenshot/default/fe0hiusviaml5nj_mtu1.jpg", Matrix Resurecciones | REGIOFLIX
-http://regioplay.xyz/php/SR_REGIO_715022_/matrix2021.php?f=.mp4
+http://regioplay.xyz/php/SR_REGIO_526022_/matrix2021.php?f=.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://cinembrollos.files.wordpress.com/2021/06/hotel_transylvania_transformania.jpg", Hotel Transylvania Transformania | REGIOFLIX
-http://regioplay.xyz/php/SR_REGIO_715022_/hoteltransylvaniatransformania.php?f=.mp4
+http://regioplay.xyz/php/SR_REGIO_526022_/hoteltransylvaniatransformania.php?f=.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.mubis.es/media/users/12828/291300/poster-y-trailer-de-clifford-el-gran-perro-rojo-original.jpg", Clifford El Gran Perro Rojo | REGIOFLIX
 http://regioplay.xyz/825022/Clifford.El.Gran.Perro.Rojo.SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/marvel/images/9/9a/Eternals_%28film%29_poster_002.png/revision/latest?cb=20210819165934&path-prefix=es", Eternals | REGIOFLIX
@@ -7795,7 +7799,7 @@ http://regioplay.xyz/825022/The.whole.truth.2021.1080p-dual-lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.moviementarios.com/wp-content/uploads/2021/09/EL-DIARIO-DE-GREG-POSTER.jpg", El diario de Greg | REGIOFLIX
 http://regioplay.xyz/825022/Diary.of.a.wimpy.kid.2021.1080p-dual-lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.riendoporlavida.com/wp-content/uploads/2019/04/POSTER-FRANCO-635x1024.jpg", Franco Escamilla:Bienvenido al mundo | REGIOFLIX
-http://regioplay.xyz/php/SR_REGIO_715022_/bienvenido.al.mundo.franco.escamilla.php?f=.mp4
+http://regioplay.xyz/php/SR_REGIO_526022_/bienvenido.al.mundo.franco.escamilla.php?f=.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/plexmx.info/wp-content/uploads/2021/08/E86dBHyUcAA5JXK.jpg?ssl=1", VENOM carnage liberado | REGIOFLIX
 http://regioplay.xyz/825022/Venom.let.there.be.carnage.2021.1080p-dual-lat-srregio.net.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/10/13/16/30/5386471.jpg", Por Fin Solo en Casa | REGIOFLIX
