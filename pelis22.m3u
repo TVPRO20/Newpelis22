@@ -2673,8 +2673,14 @@ http://regioplay.xyz/825022/coco.mkv
 #EXTM3U
 
 
-
-
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/y_como_es_el.jpg", Y como es el? | REGIOFLIX
+http://regioplay.xyz/228022/Backseat.Driver.2020..lati.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Luck-722224530-mmed.jpg", LUCK | REGIOFLIX
+http://regioplay.xyz/228022/Luck.2022.lati.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/365_d_as_m_s-458437240-large.jpg", 365 dias mas | REGIOFLIX
+http://regioplay.xyz/228022/365.Days.Part.III.2022.lati.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/736x/5f/73/6c/5f736c33f89d22a0f58c159e8d64172e.jpg", Las Leyendas: El Origen | REGIOFLIX
+http://regioplay.xyz/228022/Las.leyendas.El.origen.2021.lati.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://pbs.twimg.com/media/FTVLioFXwAA7YwM.jpg", Predator: Prey | REGIOFLIX
 http://regioplay.xyz/228022/Predator_Prey_SrRegio.Net.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/minions-the-rise-of-gru/images/regions/ar/onesheet.jpg", Minions Nace un villano 2022 | REGIOFLIX
@@ -2722,7 +2728,7 @@ http://regioplay.xyz/php/SR_REGIO_526022_/bienvenido.al.mundo.franco.escamilla.p
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/plexmx.info/wp-content/uploads/2021/08/E86dBHyUcAA5JXK.jpg?ssl=1", VENOM carnage liberado | REGIOFLIX
 http://regioplay.xyz/228022/Venom.let.there.be.carnage.2021.1080p-dual-lat-srregio.net.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="", Volver al futuro | REGIOFLIX
-https://regioplay.xyz/php/SR_REGIO_209022_/volver_al_futuro.php?f=.mp4
+https://regioplay.xyz/php/SR_REGIO_019022_/volver_al_futuro.php?f=.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/10/13/16/30/5386471.jpg", Por Fin Solo en Casa | REGIOFLIX
 http://regioplay.xyz/228022/Home.Sweet.Home.Alone.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/alerta-roja-ftogramas-1634823584.jpg", Alerta Roja | REGIOFLIX
