@@ -1,224 +1,134 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Spiderhead-162179043-large.jpg", SpiderHead 
+#EXTINF:-1,SpiderHead
 https://ia601509.us.archive.org/12/items/l-4-c-4b-3z-4/l4%20c4b3z4.mp4
-
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/81pD5C8ucdL._AC_SY445_.jpg", Gigantes de Acero 
-https://ia801401.us.archive.org/11/items/g1_G4.4C3r0/g1_G4.4C3r0.mp4
-
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/23/10/15/2869612.jpg", House of the Dragon 
+#EXTINF:-1,House of the Dragon
 https://ia601405.us.archive.org/25/items/h-0u-53-dr-4g-0/H0u53_Dr4g0.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pbs.twimg.com/media/FTVLioFXwAA7YwM.jpg", Predator: Prey 
+#EXTINF:-1,Predator: Prey
 https://ia601502.us.archive.org/31/items/p.R3_y/p.R3_y0k.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguSN0jBEU45zHup7mgbfuQT5exYQ8vJDEiVnbzpegGztN6NVuZm8bhPxrOgB9x8hTiyK3NgtJkyw8yaON846YDjwnp1r8D1UEVo7WaoO_vFuIl0buw9AeZFqwHxHld2IqIwVsu2L3Bj8kkd3EJGpdT2vFI_n2oWEroDBNFpcO8JjmZSuf9ktPhvfgLBQ/s3000/black_phone_xxlg.jpg", Teléfono Negro 
+#EXTINF:-1,Teléfono Negro
 http://regioplay.xyz/228022/El.Telefono.Negro.SRREGIO.NET.mkv
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.supercines.com.ve/source/movies/13w4v08mblmowg4oco.jpg", THOR: Love and Thunder 
+#EXTINF:-1,THOR: Love and Thunder
 https://ia801500.us.archive.org/3/items/t-h-0-r/T_h0-r.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/25/15/00/3011978.jpg", El Último Refugio 
+#EXTINF:-1,El Último Refugio
 https://ia801500.us.archive.org/12/items/gr-33-nl-4-nd/Gr33_nl4%20nd.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Minions_El_origen_de_Gru-608394212-large.jpg", MINIONS: El Origen de Gru 
+#EXTINF:-1,MINIONS: El Origen de Gru
 https://ia802505.us.archive.org/11/items/m-1n-1-0n-5/m-1n-1-0n-5.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Moonfall-196397735-large.jpg", Moonfall 
+#EXTINF:-1,Moonfall
 https://ia802505.us.archive.org/7/items/m-0-0n-f-4l-l/M0%200n%20f4lL.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/22/05/05/17/26/5021573.jpg", Boss Light Year 
+#EXTINF:-1,Boss Light Year
 https://ia601505.us.archive.org/28/items/l-1-y-3.4-r/L1_y3.4R.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.unpluggednews.com.mx/wp-content/uploads/2022/02/d35711d39cc4-unch-6-banner-movil.jpg", UNCHARTED 
+#EXTINF:-1,UNCHARTED
 http://regioplay.xyz/825022/Uncharted.2022.SRREGIO.NET.mkv
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://rechismes.com/wp-content/uploads/2022/02/Jurassic-World-Dominio-1.jpg", Jurassic World: Dominion 
+#EXTINF:-1,Jurassic World: Dominion
 http://regioplay.xyz/228022/JurassicWorldDominio.mkv
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Hopper_el_polloliebre-899342736-large.jpg", Chickenhare 
+#EXTINF:-1,Chickenhare
 https://ia601407.us.archive.org/17/items/ch-1-ck-3-nh-4r-3/Ch1_ck3%20nh4r3.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://mediacdn.aent-m.com/prod-img-misc/500/4/4070774-2823653.jpg", Iron Cross: The Road To Normandy 
+#EXTINF:-1,Iron Cross: The Road To Normandy
 https://ia801500.us.archive.org/2/items/1r-0n-cr-055/1r0n_Cr%20055.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://cinehdplus.net/wp-content/uploads/2022/05/q7FmdJHKMLIC4XgWfcFRIu2iVdL-185x278.jpg", El Valet 
+#EXTINF:-1,El Valet
 https://ia801406.us.archive.org/19/items/3-l-v-4-l-3-t/3L_v%204L3_t.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://images7.alphacoders.com/124/1245468.jpg", Chip y Dale: Al Rescate
-https://ia601508.us.archive.org/20/items/ch-1-p-n/Ch_1P%20%27n%20.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://dam.smashmexico.com.mx/wp-content/uploads/2022/02/doctor-strange-nuevo-poster.jpg", Doctor Strange-Multiverse of Madness 
+#EXTINF:-1,Doctor Strange-Multiverse of Madness
 https://archive.org/download/d-0-ctr-5tr-4/D0_ctr%205tr4.mkv
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/12/Poster-Imperdonable.jpg", Imperdonable 
-https://ia902507.us.archive.org/3/items/1m-p-3rd-0n-4-bl-3/1m_P3rd0n4%20bl3.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://animacionparaadultos.es/wp-content/uploads/2020/07/laleyendadehey.jpg", La leyenda de Hei 
+#EXTINF:-1,La leyenda de Hei
 https://ia802509.us.archive.org/4/items/h-31_20220526/H31.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.lahiguera.net/cinemania/pelicula/9419/morbius-cartel-10232.jpg", MORBIUS 
-https://ia902507.us.archive.org/14/items/m-0r-b-1-u-5./M0r_b1%20u5..mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/11/01/3655834.jpg", AD ASTRA 
-https://ia802206.us.archive.org/30/items/ad-astra-hacia-las-estrellas/4d%2045tr4.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://ruizhealytimes.com/wp-content/uploads/2020/11/pesadillaenelinfierno_poster.jpg", Pesadilla en el Infierno 
+#EXTINF:-1,Pesadilla en el Infierno
 https://ia902500.us.archive.org/22/items/pesadilla-en-el-infierno-2018/Pesadilla%20en%20el%20infierno%20%282018%29.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://img2.rtve.es/imagenes/poster-malasana-32/1579174451616.jpg, Malasaña 32 
-https://ia802508.us.archive.org/26/items/malasana-32-2020-latino/Malasan%CC%83a%2032%20%282020%29%20Latino.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Mentes_poderosas-593776668-large.jpg", Mentes Poderosas 
-https://archive.org/download/mentes-poderosas/Mentes%20Poderosas.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_49852.jpg", Proximity  
-https://archive.org/download/Proximity/Proximity.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="http://cdn5.upsocl.com/wp-content/uploads/2090/03/afiche-1.jpg", Disney: TURNING RED  
+#EXTINF:-1,Disney: TURNING RED
 https://archive.org/download/r-3dd-2022/R3dd2022.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://cinembrollos.files.wordpress.com/2022/02/batman_ver29_xlg.jpg", THE BATMAN  
+#EXTINF:-1,THE BATMAN
 https://archive.org/download/b-4-t-m-4-n/B4%20t_m4N.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2021/12/no-mires-arriba-poster-sinopsis1.jpg", No Mires Arriba  
+#EXTINF:-1,No Mires Arriba
 https://ia804601.us.archive.org/4/items/n0m1r3s-4rr1b42021/n0m1r3s-4rr1b42021.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/monstermania.jpg", Monstermanía  
+#EXTINF:-1,Monstermanía
 https://ia601403.us.archive.org/26/items/m0n5t3rm4n142021/m0n5t3rm4n142021.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/20/16/12/1450650.jpg", Finch | Phoenix´DreamsTV
+#EXTINF:-1,Finch | Phoenix´DreamsTV
 https://ia904601.us.archive.org/33/items/1f-1nc-0h/1f1nc0h.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Resident_Evil_Bienvenidos_a_Raccoon_City-764554100-large.jpg", Resident Evil: Bienvenidos a Raccoon City | Phoenix´DreamsTV
+#EXTINF:-1,Resident Evil: Bienvenidos a Raccoon City | Phoenix´DreamsTV
 https://ia601405.us.archive.org/23/items/rp-189-pr/RP189PR.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://kbimages1-a.akamaihd.net/84c452ca-9e34-49aa-9f0a-bdcb843207f3/1200/1200/False/hotel-transylvania-transformania-movie-novelization.jpg", Hotel Transylvania: Transformania | Phoenix´DreamsTV
+#EXTINF:-1,Hotel Transylvania: Transformania | Phoenix´DreamsTV
 https://ia601502.us.archive.org/17/items/0t-31tr-4n-51lv-4n-142022/0t31tr4n51lv4n142022.mp4
-
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/screenshot/default/fe0hiusviaml5nj_mtu1.jpg", Matrix Resurecciones | Phoenix´DreamsTV
+#EXTINF:-1,Matrix Resurecciones | Phoenix´DreamsTV
 https://ia801500.us.archive.org/0/items/m-4tr-1x-2021/M4tr1x2021.mp4
-
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.alertageekchile.cl/wp-content/uploads/2021/11/Cazafantasmas-el-Legado-Poster.jpg", Cazafantasmas: El Legado | Phoenix´DreamsTV
+#EXTINF:-1,Cazafantasmas: El Legado | Phoenix´DreamsTV
 https://ia601504.us.archive.org/31/items/c4s42021/c4s42021.mp4
-
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://1.bp.blogspot.com/-xFW5MwvS30w/XxhlfNtZRHI/AAAAAAAAICY/a96eYyHdng00q6PkMGjbR4MAEzFxTdDagCLcBGAsYHQ/s500/BLACKPANTER.jpg", Black Panther 
+#EXTINF:-1,Black Panther
 https://ia802800.us.archive.org/30/items/Seminario8/Seminario2.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/81V1KTnYKwL._SL1371_.jpg", Avengers Infinity War 
+#EXTINF:-1,Avengers Infinity War
 https://ia802800.us.archive.org/30/items/Seminario8/Seminario1.mkv
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://irs.www.warnerbros.es/keyart-jpeg/movies/media/browser/las-brujas-1417.jpg", Las Brujas 
+#EXTINF:-1,Las Brujas
 https://archive.org/download/l-45-2020-bruj-45/L45%20%20%282020%29%20bruj45.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/fast9/posters/01.jpg", Rapidos y Furiosos 9 
+#EXTINF:-1,Rapidos y Furiosos 9
 https://archive.org/download/r-4-f-0-9/R4%20%26%20F0%209.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://cinemagavia.es/wp-content/uploads/2021/06/Viuda-Negra-poster.jpg.webp", La Viuda Negra 
+#EXTINF:-1,La Viuda Negra
 https://archive.org/download/123-1ud-4-7n-3gr-123/123-1ud4-7n3gr123.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://1.bp.blogspot.com/-3zvFIl_kGQY/YMNpMvzXcKI/AAAAAAAAkG0/s7rVrZrKBboSlOdvvCZyHOw7YfHglJjKACLcBGAsYHQ/s500/91iRHcxCIXS._SS500_.jpg", Infinite 
+#EXTINF:-1,Infinite
 https://archive.org/download/1nf-1n-1t-3/1nf1n1t3.ia.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/84/Jungle_Cruise_Poster_%282%29.jpg", Jungle Cruise 
+#EXTINF:-1,Jungle Cruise
 https://archive.org/download/juunng-13-cru-153/Juunng13%20%C3%87ru153.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://rockthebestmusic.com/wp-content/uploads/2021/06/Luca-cover.jpg", Luca 
+#EXTINF:-1,Luca
 https://archive.org/download/1uc-4_202106/1uc4.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/21/05/26/17/45/4238572.jpg", La Guerra Del Mañana 
+#EXTINF:-1,La Guerra Del Mañana
 https://archive.org/download/14-gu-3rr-4-d-31-m-4n-4n-4/14%20gu3rr4%20d31%20m4%C3%B14n4%20.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://1.bp.blogspot.com/-PAKSao3OdO0/YC0vsj0tz2I/AAAAAAAAKpU/GIQH7QOPlyUgQ2B6hL70dV4cEJyOju06wCLcBGAsYHQ/s758/cruela-disney-emma-stone.jpg", Cruella 
+#EXTINF:-1,Cruella
 https://archive.org/download/c-7u-3ll-4/C7u3ll4.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://as.com/meristation/imagenes/2021/03/17/avances/1615986299_957691_1615993077_noticia_normal_recorte1.jpg", Mortal Kombat 
+#EXTINF:-1,Mortal Kombat
 https://archive.org/download/m-0rt-4l-k-0mb-4/M0rt4l%20K0mb4%2B.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/17/17/03/5442885.jpg", El Joker 
+#EXTINF:-1,El Joker
 https://archive.org/download/j-0k-3r_202106/J0k3r.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/36204-715581-20210601021907.jpg", El Conjuro 3 
+#EXTINF:-1,El Conjuro 3
 https://archive.org/download/3l-c-0njur-0-3/3l%20%C3%A70njur0%20-%203.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/36401-547465-20210721035236.jpg", Jefe En Pañales 2 
+#EXTINF:-1,Jefe En Pañales 2
 https://archive.org/download/j-3f-3-3n-p-4n-4l-35-2/J3f3%203n%20P4%C3%B14l35%20-%202.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Raya_y_el_ltimo_drag_n-458441308-large.jpg", Raya 
+#EXTINF:-1,Raya
 https://archive.org/download/r-4y-4/R4y4.mp4
-
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/www.movieplusgt.com/wp-content/uploads/2020/07/Poster-el-practicante.jpg?resize=768%2C1138", El Practicante | Phoenix´DreamsTV
+#EXTINF:-1,El Practicante | Phoenix´DreamsTV
 https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1690&authkey=AMwmBE3n0gDprHI
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/564x/ca/89/48/ca89485fd6d37bf689e10d6e6b4e58ea.jpg", Ajuste de Cuentas | Phoenix´DreamsTV
+#EXTINF:-1,Ajuste de Cuentas | Phoenix´DreamsTV
 https://onedrive.live.com/download.aspx?cid=E44DF942B91FC749&resid=E44DF942B91FC749%212797&authkey=AAEvvsEa01f8Jh0
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/01/trolls-2.jpg?resize=510%2C755&ssl=1", Trolls 2 | Phoenix´DreamsTV
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1680&authkey=AJdrIV92ZSEaPLY
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/17/17/00/0735463.jpg", El Hoyo | Phoenix´DreamsTV
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1631&authkey=AAjm_Ggwl4dUbTI
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81JSykMB7DL._UR12001600_RI_.jpg", Cindy La Regia | Phoenix´DreamsTV
-https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3109&authkey=AOy_jIDek2FFBdQ
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2019/09/Parasitos_POSTER.jpg?resize=800%2C1132&ssl=1", Parasitos | Phoenix´DreamsTV
+#EXTINF:-1,Parasitos | Phoenix´DreamsTV
 https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3118&authkey=ANohO-EiyJ9nOcM
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/05/10/50/0307472.jpg", Verdad o Reto | Phoenix´DreamsTV
+#EXTINF:-1,Verdad o Reto | Phoenix´DreamsTV
 https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1358&authkey=ANdX5tup-vBNhXM&ithint=video,mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://miro.medium.com/max/462/1*x4Whh5zcot0LB0JdZOEXnA.jpeg", El Dilema de las Redes Sociales | Phoenix´DreamsTV
+#EXTINF:-1,El Dilema de las Redes Sociales | Phoenix´DreamsTV
 http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
-
-
-
-
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://cinepremiere.com.mx/imgsHistorico/u7/El_Infierno_sin_cens_1.jpg", El Infierno | Phoenix´DreamsTV
+#EXTINF:-1,El Infierno | Phoenix´DreamsTV
 https://archive.org/download/ein-srregio/EInSRREGIO.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/regreso-al-futuro-poster-30x46cm-back-to-the-future-po095-D_NQ_NP_935111-MLM20493561423_112015-F.jpg", Volver al Futuro | Phoenix´DreamsTV
+#EXTINF:-1,Volver al Futuro | Phoenix´DreamsTV
 https://archive.org/download/qwerty_202001/qwerty.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51URcEemjTL.jpg", Volver al Futuro 2 | Phoenix´DreamsTV
+#EXTINF:-1,Volver al Futuro 2 | Phoenix´DreamsTV
 https://archive.org/download/qwerty2/qwerty2.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg", Volver al Futuro 3 | Phoenix´DreamsTV
+#EXTINF:-1,Volver al Futuro 3 | Phoenix´DreamsTV
 https://archive.org/download/qwerty3/qwerty3.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/02/08/13/46/111920.jpg", Your Name | Phoenix´DreamsTV
+#EXTINF:-1,Your Name | Phoenix´DreamsTV
 https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_.jpg", Jhonny English 3.0 | Phoenix´DreamsTV
+#EXTINF:-1,Jhonny English 3.0 | Phoenix´DreamsTV
 https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://imgc.allpostersimages.com/img/print/posters/regreso-al-futuro_a-G-1651411-0.jpg", Volver al Futuro | Phoenix´DreamsTV
+#EXTINF:-1,Volver al Futuro | Phoenix´DreamsTV
 https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg", Next Gen | Phoenix´DreamsTV
+#EXTINF:-1,Next Gen | Phoenix´DreamsTV
 https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_32657_27.jpg", Tragedy Girls | Phoenix´DreamsTV
+#EXTINF:-1,Tragedy Girls | Phoenix´DreamsTV
 https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/78/40/96/20433085.jpg", La Fuerza De La Ilusion | Phoenix´DreamsTV  
+#EXTINF:-1,La Fuerza De La Ilusion | Phoenix´DreamsTV
 https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg", Cuando nos Conocimos | Phoenix´DreamsTV  
+#EXTINF:-1,Cuando nos Conocimos | Phoenix´DreamsTV
 https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://elcafetindelas5.files.wordpress.com/2013/03/resena-nosotros-los-nobles_121446_28022-670x503.jpg", Nosotros Los Nobles | Phoenix´DreamsTV  
+#EXTINF:-1,Nosotros Los Nobles | Phoenix´DreamsTV
 https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg", The Cloverfield Paradox | Phoenix´DreamsTV  
+#EXTINF:-1,The Cloverfield Paradox | Phoenix´DreamsTV
 https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg", Terminus | Phoenix´DreamsTV  
+#EXTINF:-1,Terminus | Phoenix´DreamsTV
 https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/www.proximosestrenos.com.ar/wp-content/uploads/2015/04/poster-intensamente.jpg", Intensamente | Phoenix´DreamsTV  
+#EXTINF:-1,Intensamente | Phoenix´DreamsTV
 https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg", JIGSAW VIII | Phoenix´DreamsTV  
+#EXTINF:-1,JIGSAW VIII | Phoenix´DreamsTV
 https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina | Phoenix´DreamsTV  
+#EXTINF:-1,Redada Asesina | Phoenix´DreamsTV
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO | Phoenix´DreamsTV  
+#EXTINF:-1,SAW VIII SUBTITULADO | Phoenix´DreamsTV
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
-
-
-
-
-
 #EXTINF:-1,Alerta Roja (2021)
 https://archive.org/download/alerta-roja_20211120_1822/ALERTA%20ROJA.mp4
 #EXTINF:-1,Survive Game (2021)
@@ -255,8 +165,6 @@ https://archive.org/download/vibora/vibora.mkv
 https://archive.org/download/manguera_202108/Th3%205u1c1d3%205qu4d%202.mkv
 #EXTINF:-1,Free Guy (2021)
 https://archive.org/download/manguera_20210927/_Fr33%205uy.mkv
-#EXTINF:-1,rapidos y furiosos opcion 1
-https://archive.org/download/r-4-f-0-9/R4%20%26%20F0%209.mp4
 #EXTINF:-1,La guerra del mañana (2021)
 https://lh3.googleusercontent.com/bKO514vK1pvaNc0UxDu6tShs0xwAzxwJUsMb9nDWP5oE96cZqbJBFynM1kUpY7a83WwunO2dRYehMH2bmt7CPJft3_3XM_6kezbBsHdJQznotOlt2pjYDcdUyotTUhbjmwbVttUYh-g=m18
 #EXTINF:-1,La Casa de Las Flores La Película (2021)
@@ -1305,8 +1213,6 @@ https://archive.org/download/the.addams.family.2019.hd.latino.720p/P3L122/The.Ad
 https://archive.org/download/aml3_20200402/mal2.mkv
 #EXTINF:-1,Mas Alla de la Luna(2020)
 https://archive.org/download/videoplayback18_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback18.mp4
-#EXTINF:-1,Matilda
-https://archive.org/download/matilda19961080p/Matilda%20%281996%29%201080p.mp4
 #EXTINF:-1,Mi pobre angelito
 https://ia601509.us.archive.org/1/items/mipobreangelito2_201911/Mi%20Pobre%20Angelito%201.mp4
 #EXTINF:-1,Mi pobre angelito 2: Perdido en Nueva York
@@ -1721,66 +1627,6 @@ http://archive.org/download/bb_20210117/BC.mp4
 http://archive.org/download/y-2mate.com-chucky-1-pelicula-completa-en-espanol-quedate-encasa-2020-360p/y2mate.com%20-%20chucky%201%20pel%C3%ADcula%20completa%20en%20espa%C3%B1ol%20QuedateEncasa%202020_360p.mp4
 #EXTINF:-1,EL NIÑO
 http://archive.org/download/ac_20210117/AF.mp4
-#EXTINF:-1,Avengers Infinity War | Peliculas 2022
-https://ia802800.us.archive.org/30/items/Seminario8/Seminario1.mkv
-#EXTINF:-1,Las Brujas | Peliculas 2022
-https://archive.org/download/l-45-2020-bruj-45/L45%20%20%282020%29%20bruj45.mp4
-#EXTINF:-1,La Viuda Negra | Peliculas 2022
-https://archive.org/download/123-1ud-4-7n-3gr-123/123-1ud4-7n3gr123.mp4
-#EXTINF:-1,Infinite | Peliculas 2022
-https://archive.org/download/1nf-1n-1t-3/1nf1n1t3.ia.mp4
-#EXTINF:-1,Jungle Cruise | Peliculas 2022
-https://archive.org/download/juunng-13-cru-153/Juunng13%20%C3%87ru153.mp4
-#EXTINF:-1,Luca | Peliculas 2022
-https://archive.org/download/1uc-4_202106/1uc4.mp4
-#EXTINF:-1,La Guerra Del Mañana | Peliculas 2022
-https://archive.org/download/14-gu-3rr-4-d-31-m-4n-4n-4/14%20gu3rr4%20d31%20m4%C3%B14n4%20.mp4
-#EXTINF:-1,Cruella | Peliculas 2022
-https://archive.org/download/c-7u-3ll-4/C7u3ll4.mp4
-#EXTINF:-1,Mortal Kombat | Peliculas 2022
-https://archive.org/download/m-0rt-4l-k-0mb-4/M0rt4l%20K0mb4%2B.mp4
-#EXTINF:-1,El Joker | Peliculas 2022
-https://archive.org/download/j-0k-3r_202106/J0k3r.mp4
-#EXTINF:-1,El Conjuro 3 | Peliculas 2022
-https://archive.org/download/3l-c-0njur-0-3/3l%20%C3%A70njur0%20-%203.mp4
-#EXTINF:-1,Jefe En Pañales 2 | Peliculas 2022
-https://archive.org/download/j-3f-3-3n-p-4n-4l-35-2/J3f3%203n%20P4%C3%B14l35%20-%202.mp4
-#EXTINF:-1,Raya | Peliculas 2022
-https://archive.org/download/r-4y-4/R4y4.mp4
-#EXTINF:-1,El Practicante | Phoenix´DreamsTV
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1690&authkey=AMwmBE3n0gDprHI
-#EXTINF:-1,Ajuste de Cuentas | Phoenix´DreamsTV
-https://onedrive.live.com/download.aspx?cid=E44DF942B91FC749&resid=E44DF942B91FC749%212797&authkey=AAEvvsEa01f8Jh0
-#EXTINF:-1,Parasitos | Phoenix´DreamsTV
-https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3118&authkey=ANohO-EiyJ9nOcM
-#EXTINF:-1,Verdad o Reto | Phoenix´DreamsTV
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1358&authkey=ANdX5tup-vBNhXM&ithint=video,mp4
-#EXTINF:-1,El Dilema de las Redes Sociales | Phoenix´DreamsTV
-http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
-#EXTINF:-1,El Infierno | Phoenix´DreamsTV
-https://archive.org/download/ein-srregio/EInSRREGIO.mkv
-#EXTINF:-1,Volver al Futuro | Phoenix´DreamsTV
-https://archive.org/download/qwerty_202001/qwerty.mkv
-#EXTINF:-1,Volver al Futuro 2 | Phoenix´DreamsTV
-https://archive.org/download/qwerty2/qwerty2.mkv
-#EXTINF:-1,Volver al Futuro 3 | Phoenix´DreamsTV
-https://archive.org/download/qwerty3/qwerty3.mkv
-#EXTINF:-1,Your Name | Phoenix´DreamsTV
-https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
-#EXTINF:-1,Jhonny English 3.0 | Phoenix´DreamsTV
-https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
-#EXTINF:-1,Volver al Futuro | Phoenix´DreamsTV
-https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
-#EXTINF:-1,Next Gen | Phoenix´DreamsTV
-https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
-#EXTINF:-1,Tragedy Girls | Phoenix´DreamsTV
-https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
-#EXTINF:-1,La Fuerza De La Ilusion | Phoenix´DreamsTV
-https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
-#EXTINF:-1,Cuando nos Conocimos | Phoenix´DreamsTV
-https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
-#EXTINF:-1,Nosotros Los Nobles | Phoenix´DreamsTV
-https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
 #EXTINF:-1,AMENAZA EN LO PROFUNDO
 http://ia801400.us.archive.org/7/items/000_20200402/07.mp4
 #EXTINF:-1,AD ASTRA 2019
@@ -1793,16 +1639,6 @@ http://archive.org/download/as_20210117/AU.mp4
 http://ia601402.us.archive.org/10/items/000_20200304_20200304_2245/03.mp4
 #EXTINF:-1,SHARK
 http://ia801409.us.archive.org/30/items/000_20200106/4.mp4
-#EXTINF:-1,Terminus | Phoenix´DreamsTV
-https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
-#EXTINF:-1,Intensamente | Phoenix´DreamsTV
-https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
-#EXTINF:-1,JIGSAW VIII | Phoenix´DreamsTV
-https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
-#EXTINF:-1,Redada Asesina | Phoenix´DreamsTV
-https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
-#EXTINF:-1,SAW VIII SUBTITULADO | Phoenix´DreamsTV
-https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 #EXTINF:-1,Space Jam Una Nueva Era | REGIOFLIX
 http://regioplay.xyz/619012/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
 #EXTINF:-1,COCO | REGIOFLIX
@@ -2581,8 +2417,6 @@ http://regioplay.xyz/825022/Memory.SRREGIO.NET.mkv
 http://regioplay.xyz/825022/Sonic.2.2022.lati.mp4
 #EXTINF:-1,Que despadre | REGIOFLIX
 http://regioplay.xyz/825022/Qu%C3%A9.despadre.2022.lati.mp4
-#EXTINF:-1,Uncharted 2022 | REGIOFLIX
-http://regioplay.xyz/825022/Uncharted.2022.SRREGIO.NET.mkv
 #EXTINF:-1,365 dias Aquel dia | REGIOFLIX
 http://regioplay.xyz/825022/365.Dias.Aquel.dia.SRREGIO.NET.mkv
 #EXTINF:-1,Jackass Forever | REGIOFLIX
@@ -2663,7 +2497,6 @@ http://regioplay.xyz/825022/Un.rescate.de.huevitos.2021.1080p-lat-SRREGIO.NET.mk
 http://regioplay.xyz/825022/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
 #EXTINF:-1,COCO | REGIOFLIX
 http://regioplay.xyz/825022/coco.mkv
-
 
 
 
