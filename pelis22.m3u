@@ -1,5 +1,37 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/C_sate_conmigo-852565093-large.jpg", Cásate Conmigo 
+https://ia802508.us.archive.org/26/items/c-454-t-3-c-0nm-1-g-0/C454%20t3%20c0nm1%20g0.ia.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://mx.web.img2.acsta.net/pictures/21/12/14/04/28/4658478.jpg", Ambulancia 
+https://ia601400.us.archive.org/13/items/4m-bu-14nc-14/4mBu_14nc14.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2021/11/encanto-disney-poster-sinopsis.jpg", Encanto 
+https://ia601404.us.archive.org/23/items/3nc-4-nt-0/3nc4_nt0.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bullet-train-757922812-large-1654676084.jpg", El Tren Bala 
+https://ia801402.us.archive.org/4/items/tr_3n/b_ull3t.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/210/358/21035814_20130903150925786.jpg", Turbo 
+https://ia902206.us.archive.org/27/items/tu-rb-0/TuRb0.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://diamondfilms.com/img/poster/62f3fe997859118340133ec2a.jpg", La Huerfana 2: El Origen 
+https://ia801508.us.archive.org/12/items/f-1r-5t-k-1ll/F1r5t_K1ll.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Infinite_Storm-194351163-large.jpg", Infinite Storm 
+https://ia801507.us.archive.org/7/items/1nf-1n-1t-3.5t-0rm/1nf1n1t3.5t0rm.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://1.bp.blogspot.com/-HmxMUfvhBys/X8ttOEiZu3I/AAAAAAAAGS0/3QPvdBzMbawRLLtm4xnkJD9-AiD4EJX0wCLcBGAsYHQ/s1401/The%2BCall%2BPoster.jpg", The Call 
+https://ia801405.us.archive.org/19/items/th-3.c-4-l-l/Th3.c4_lL.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://phantom-marca.unidadeditorial.es/b357c8a454724e126c96b9c2d058d1a7/resize/1320/f/jpg/assets/multimedia/imagenes/2022/07/05/16569736469373.jpg", Dragon Ball: Super Hero 
+https://ia801406.us.archive.org/15/items/dbs-5up-3r-h/DBS%205up3r_H.mp4
+
+
+
+
+
+
 
 #EXTINF:-1,SpiderHead
 https://ia601509.us.archive.org/12/items/l-4-c-4b-3z-4/l4%20c4b3z4.mp4
