@@ -2537,6 +2537,14 @@ http://regioplay.xyz/825022/coco.mkv
 
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.redd.it/qtbvbiq3mjr71.jpg", Hocus Pocus 2| REGIOFLIX
+http://regioplay.xyz/228022/Hocus.Pocus.2.2022.lati.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nope-poster-fotogramas-1626980546.jpeg", NOPE | REGIOFLIX
+http://regioplay.xyz/228022/Nope.2022.lati.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.quepeliculaver.com/uploads/2022/06/nuevo-poster-dc-liga-de-supermascotas-en-exclusiva.jpg", Supermascotas | REGIOFLIX
+http://regioplay.xyz/228022/DC.League.of.Super.Pets.2022.lati.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.ecartelera.com/carteles/15600/15658/001.jpg", Mentada de padre | REGIOFLIX
+http://regioplay.xyz/228022/Mentada.de.padre.2019.lati.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/y_como_es_el.jpg", Y como es el? | REGIOFLIX
 http://regioplay.xyz/228022/Backseat.Driver.2020..lati.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Luck-722224530-mmed.jpg", LUCK | REGIOFLIX
@@ -2592,7 +2600,7 @@ http://regioplay.xyz/php/SR_REGIO_526022_/bienvenido.al.mundo.franco.escamilla.p
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/plexmx.info/wp-content/uploads/2021/08/E86dBHyUcAA5JXK.jpg?ssl=1", VENOM carnage liberado | REGIOFLIX
 http://regioplay.xyz/228022/Venom.let.there.be.carnage.2021.1080p-dual-lat-srregio.net.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="", Volver al futuro | REGIOFLIX
-https://regioplay.xyz/php/SR_REGIO_229022_/volver_al_futuro.php?f=.mp4
+https://regioplay.xyz/php/SR_REGIO_800122_/volver_al_futuro.php?f=.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/10/13/16/30/5386471.jpg", Por Fin Solo en Casa | REGIOFLIX
 http://regioplay.xyz/228022/Home.Sweet.Home.Alone.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/alerta-roja-ftogramas-1634823584.jpg", Alerta Roja | REGIOFLIX
