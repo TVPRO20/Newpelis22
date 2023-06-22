@@ -2,6 +2,14 @@
 http://bgtv.site/TV
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://i.imgur.com/3akxcS6.png", http://paypal.me/blackghost
 http://bgtv.site/TV
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",Misión de rescate 2 (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Tyler%20Rake%202%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",Misión de rescate 1 (2020)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Misi%C3%B3n%20de%20rescate%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",Flash (2023) (CAM)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Flash%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_2.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//fiVW06jE7z9YnO4trhaMEdclSiC.jpg",Rápidos y furiosos 10 (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20R%C3%A1pidos%20y%20furiosos%20X%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//k5mQ2G1jS47fuxCjmkzFDeaNYvj.jpg",Transformers: El despertar de las bestias (2023)
 https://main.cinedecalidad.xyz/mexicanas/TransformersDespertar.mp4
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La Sirenita (2023) (CAM)
@@ -1273,6 +1281,30 @@ http://208.88.245.81/nuevo/jackinthebox2.eldespertar.dual.2023.mkv
 http://bgtv.site/TV
 #EXTINF:-1 group-title="Pelis 2" tvg-logo="https://i.imgur.com/3akxcS6.png", http://paypal.me/blackghost
 http://bgtv.site/TV
+#EXTINF:-1 group-title="Pelis 2"  tvg-logo="https://image.tmdb.org/t/p/w500/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",Transformers el despertar de las bestias 
+http://bgtv.site/cue.php?id=64821b66581303e747eb3e46
+#EXTINF:-1 group-title="Pelis 2"  tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spiderman atraves del multiverso 
+http://bgtv.site/cue.php?id=6478ec20581303e7479f9cb0
+#EXTINF:-1 group-title="Pelis 2"  tvg-logo="https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",Flash 
+http://bgtv.site/cue.php?id=648b7cd3581303e747dc71f8
+#EXTINF:-1 group-title="Pelis 2"  tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La Sirenita 
+http://bgtv.site/cue.php?id=6470d06a581303e747228f1e
+#EXTINF:-1 group-title="Pelis 2"  tvg-logo="https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",John Wick 4 
+http://bgtv.site/cue.php?id=641de27935a0168668ac0337
+#EXTINF:-1 group-title="Pelis 2"  tvg-logo="https://image.tmdb.org/t/p/w500//fiVW06jE7z9YnO4trhaMEdclSiC.jpg",Rápidos y furiosos X 2023 
+http://bgtv.site/cue.php?id=64657f35581303e7479d52af
+#EXTINF:-1 group-title="Pelis 2"  tvg-logo="https://image.tmdb.org/t/p/w500/qW4crfED8mpNDadSmMdi7ZDzhXF.jpg",Los Caballeros del Zodiaco: Saint Seiya - El inicio 
+http://bgtv.site/cue.php?id=644bc27c581303e7473c6465
+#EXTINF:-1 group-title="Pelis 2"  tvg-logo="https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",Super Mario Bros. La película 
+http://bgtv.site/cue.php?id=642f0970a08fff79d2ade68f
+#EXTINF:-1 group-title="Pelis 2"  tvg-logo="https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",Guardianes de la Galaxia volumen 3 
+http://bgtv.site/cue.php?id=64540230581303e7478077c1
+#EXTINF:-1 group-title="Pelis 2"  tvg-logo="https://image.tmdb.org/t/p/w500/2OaprROMZZeiWsydjGUIkXrv2Z3.jpg",Renfield: Asistente de vampiro 
+http://bgtv.site/cue.php?id=64511049581303e7476c4124
+#EXTINF:-1 group-title="Pelis 2"  tvg-logo="https://image.tmdb.org/t/p/w500/vdMKGbGRb7zT2dgPoD6RvJUuJxw.jpg",Ghosting 
+http://bgtv.site/cue.php?id=64471080e798bfd5f39b21d6
+#EXTINF:-1 group-title="Pelis 2"  tvg-logo="https://image.tmdb.org/t/p/w500/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",Evil Dead: El despertar 
+http://bgtv.site/cue.php?id=644881f2e798bfd5f3d8c657
 #EXTINF:-1 group-title="Pelis 2"  tvg-logo="https://image.tmdb.org/t/p/w500/6oDvtk9ODUMSdXBawId2B8L12vx.jpg",Wwe- Backlash (2023) 7   
 https://71.105.189.194/iptv/peliculas/NUEVAS%2031/Wwe-.Backlash.2023.720p-dual-lat.mp4
 #EXTINF:-1 group-title="Pelis 2"  tvg-logo="https://image.tmdb.org/t/p/w500/vjAMj81oYBryzGBhJk4gcK0M636.jpg",Sombras De Un Crimen   
@@ -5961,6 +5993,7 @@ https://archive.org/download/l.C4r3.4.I0l/l.C4r3.4.I0l.mp4
 https://archive.org/download/c676c5e24c0f969f148784fc55601959-480p/c676c5e24c0f969f148784fc55601959-480p.mp4
 #EXTINF:-1 group-title="Pelis 2"  tvg-logo="https://image.tmdb.org/t/p/w500/qeRCXsOitUdtDXc5sSVgwYGTZyg.jpg",Amor al cuadrado (2021)
 https://www.betflixplus.tk/Am0r.41.cu4dr4d0.mp4
+
 
 
 
