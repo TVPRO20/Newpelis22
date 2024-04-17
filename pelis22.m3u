@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/trolls_3/posters/02.jpg", Trolls 3 Se Armo La Banda | REGIOFLIX
 http://notabasica.com/612132/Trolls%203%20-%20Se%20Arm%C3%B3%20la%20Banda.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.themoviedb.org/t/p/original/fN6Bxw7tk9PTO99N7OzcJmjs0rN.jpg", Five Nights at Freddy's | REGIOFLIX
@@ -160,9 +161,12 @@ http://notabasica.com/612132/coco.mkv
 
 
 
-
 #EXTM3U
 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://i.imgur.com/L0zLsl9.png" ,BLACKGHOST 01
+http://bgtv.xyz/TV
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://i.imgur.com/3akxcS6.png", http://paypal.me/blackghost
+http://bgtv.xyz/TV
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//wj1VRcVsh39nkxLkZP8tuGd96tc.jpg",Los menospreciados
 http://208.88.245.81/nuevo/los.menospreciados.dual.2024.mkv
@@ -3805,8 +3809,223 @@ http://208.88.245.81/nuevo/jackinthebox2.eldespertar.dual.2023.mkv
 
 
 
+
+
+
 #EXTM3U
 
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://i.imgur.com/L0zLsl9.png" ,BLACKGHOST 02
+http://bgtv.xyz/TV
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://i.imgur.com/3akxcS6.png", http://paypal.me/blackghost
+http://bgtv.xyz/TV
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cIzk6GhxEZuweekGFXWEoAyuaMX.jpg",La primera profecía (2024) CAM
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20La%20primera%20profec%C3%ADa%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gH27K0S7BiZCsNMxzOQTacG9IZp.jpg",Arthur (2024) CAM
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20Arthur%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tMefBSflR6PGQLv7WvFPpKLZkyk.jpg",Godzilla y Kong: El nuevo imperio (2024) CAM
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20Godzilla%20y%20Kong-%20El%20nuevo%20imperio%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lbOyeiiRYAE6Nm2e7xiNAAaRwZB.jpg",Baghead: Contacto con la muerte (2023) CAM
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20Baghead-%20Contacto%20Con%20La%20Muerte%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9u6HEtZJdZDjPGGJq6YEuhPnoan.jpg",Imaginario: Juguete diabólico (2024)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Imaginario-%20juguete%20diab%C3%B3lico%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/c21ON7BZn0jwdNl6ibZ1vhXJmpy.jpg",La historia más grande jamás contada (1965)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20La%20Historia%20M%C3%A1s%20Grande%20Jam%C3%A1s%20Contada%20(1965)%20Online%20-%20Cuevana%203%20Peliculas%20Online.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",Ben-Hur (1959)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20Ben-Hur%20(1959)%20Online%20-%20Cuevana%203%20Peliculas%20Online.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ecz83StK0eK8Rnio8TCmhbtVU98.jpg",Hijo de Dios (2014)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20Hijo%20de%20Dios%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ng0bdozu6NBdGQIsru1oXyzNxc6.jpg",María Magdalena (2018)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20Mar%C3%ADa%20Magdalena%20Online%20Gratis%20(%E2%9A%9C%EF%B8%8F%202018)%20-%20CUEVANA3.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2NUXG94dGMKYgJL1BkJGKynMb3l.jpg",Pablo, el apóstol de Cristo (2018)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20Pablo%20Apostol%20De%20Cristo%20(2018)%20Online%20-%20Cuevana%203%20Peliculas%20Online.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/stSpFp2NUJMGhIyndqwBi9WE9y9.jpg",Los diez mandamientos (1956)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20Los%20Diez%20Mandamientos%20(1956)%20Online%20Latino%20HD%20-%20Cuevana%20HD.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/6hGh4z503k8wA8mLlmvwhTSGja.jpg",La resurrección de Cristo (2016)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20La%20Resurrecci%C3%B3n%20de%20Cristo%20(2016)%20Online%20-%20Cuevana%203%20Peliculas%20Online.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cO6x9pTZHIBXbPLcmFSCXAI6Ky3.jpg",El Arca de Noé (2024)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Arca%20de%20No%C3%A9%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/j1Rjw6a62UwrbTNT0I3JzZnnCmr.jpg",Noé (2014)
+http://vod.tuxchannel.mx/peliculas/720/noah.mkv
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/v9f9MMrq2nGQrN7cHnQRmEq9lSE.jpg",La pasión de Cristo (2004)
+http://vod.tuxchannel.mx/peliculas/720/the%20passion%20of%20the%20christ.mkv
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg",Atrapados en lo Profundo (2024)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Atrapados%20en%20lo%20Profundo%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qfPjPZF2AqB2XnXPFcHlYtlQRS3.jpg",Frida (2024)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FWatch%20Frida%202024%201080L4T%20mp4.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/niVtvS9Kf8G1VDPSqurqHkaSSwm.jpg",Un ladrón romántico (2024)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Un%20ladr%C3%B3n%20rom%C3%A1ntico%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hyFKdAN5Dl93mt2JHfcfvIyf38g.jpg",Diario de mi Vagina (2024)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Diario%20de%20mi%20vagina%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/6faYaQyiBPhqAizldJKq21mIVaE.jpg",Cazafantasmas: Apocalipsis Fantasma (2024) CAM
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Ghostbusters-%20Apocalipsis%20fantasma%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/95VlSEfLMqeX36UVcHJuNlWEpwf.jpg",Argylle: Agente secreto (2024)
+http://vod.tuxchannel.mx/peliculas/720/argylle%202024.mkv
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sMp34cNKjIb18UBOCoAv4DpCxwY.jpg",Damsel (2024)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Damsel%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/oJQdLfrpl4CQsHAKIxd3DJqYTVq.jpg",Ricky Stanicky: El impostor (2024)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Ricky%20Stanicky-%20El%20impostor%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/wkfG7DaExmcVsGLR4kLouMwxeT5.jpg",Kung Fu Panda 4 (2024) (CAM)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FWatch%20Kung%20Panda%202024%201080p%20CAMRip%20LAT%20DUB%201XBET%20mp4.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/yRZfiG1QpRkBc7fAmxfcR7Md5EC.jpg",Megamind contra el sindicato del mal (2024) 
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Megamente%20contra%20el%20sindicato%20de%20Doom%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vFisU2LzsbiGBo3m5zDCU4mz5TO.jpg",Chicas malas (2024)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Chicas%20pesadas%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",Pobres criaturas (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Pobres%20Criaturas%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hhvMTxlTZtnCOe7YFhod9uz3m37.jpg",Código 8 (Parte 2) (2024)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20C%C3%B3digo%208-%20Renegados%20(Parte%20II)%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/urFWBbNkMkiqKhEDLogiWzc54O4.jpg",El astronauta (2024)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20El%20astronauta%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//d5NXSklXo0qyIYkgV94XAgMIckC.jpg",Dune: Parte uno (2021)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Duna%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",Dune: Parte dos (2024) CAM
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Duna-%20Parte%20dos%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/pjIrYzc31kHTySiovHAt0o3qDc2.jpg",Snoopy presenta (2024)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Snoopy%20presenta-%20Bienvenido%20a%20casa%2C%20Franklin%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/pcwOHNTIy6pVOLj6Tjp8tSL9bwF.jpg",Buena hamburguesa 2 (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Buena%20hamburguesa%202%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/mKWalirPreEdCKDJjc5TKeOP2xi.jpg",Bob Marley: la leyenda (2024) CAM
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Bob%20Marley-%20La%20leyenda%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",Madame Web (2024) CAM
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Madame%20Web%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8v7g3nydS5Ga2wBgdCNC70Y9ykk.jpg",Mavka: Guardiana del bosque (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Mavka-%20Guardiana%20del%20bosque%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lW6IHrtaATxDKYVYoQGU5sh0OVm.jpg",Fuerza Bruta Sin Salida (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Fuerza%20bruta-%20sin%20salida%20online%20HD%20-%20Cuevana%202%20(SUB).mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sdI9ufheNPAKnWLl2hnsZKVk0EG.jpg",Cazadores en tierra inhóspita (2024)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Cazadores%20en%20tierra%20inh%C3%B3spita%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/wj1VRcVsh39nkxLkZP8tuGd96tc.jpg",Los Menospreciados (2024)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Los%20menospreciados%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2J70guF8wcErbYbRgZUBcvShgI1.jpg",Un pequeño Batman Navideño (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Un%20peque%C3%B1o%20Batman%20Navide%C3%B1o%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/eLwfFQFX5XKGIbRCVfRx6IlO7aJ.jpg",El diario de Greg ¡Navidad sin salida! (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20El%20diario%20de%20Greg-%20%C2%A1Navidad%20sin%20salida!%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qD63nfBOHBesy6EOu5GT2AB0rCj.jpg",Santa, Mi Amor (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Santa%20Mi%20Amor%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//A806wuTGJECDh9krhQAhnieQcLr.jpg",¿Tu Navidad o la mía? 1 (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fdici%2FVer%20Your%20Christmas%20Or%20Mine-%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zswSOwzHmP90XXsbdcAIKhchOKL.jpg",¿Tu navidad o la mía? 2 (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20%C2%BFTu%20navidad%20o%20la%20m%C3%ADa-%202%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8v7g3nydS5Ga2wBgdCNC70Y9ykk.jpg",Mavka: Guardiana del bosque (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Mavka-%20Guardiana%20del%20bosque%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/bxr8VqXC89XoOYpJOfQHNASTgW9.jpg",El sexto bus (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20El%20Sexto%20Bus%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iuGofAB4DaAkq7KyFZEyW6czRCj.jpg",En el desierto (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20%D9%86%D8%A7%D9%82%D8%A9%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ycpxvpNyrkzsydwvLTUNixRWrdQ.jpg",Silber y el libro de los sueños (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Silber%20y%20el%20libro%20de%20los%20sue%C3%B1os%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/h2NIN5cuS3yRBnI7VDCtGiffX2r.jpg",Los Archies (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Los%20Archies%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cnXvfZrj1azU5Rvbb8D7Fz0wkyt.jpg",Paisaje con mano invisible (2023)
+http://vod.tuxchannel.mx/peliculas/720/landscape%20with%20invisible%20hand%202023.mkv
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",Doctor Who: La bestia estelar (2023)
+http://vod.tuxchannel.mx/peliculas/720/doctor%20who%20the%20star%20beast%202023.mkv
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/atBDD05PbVDI2lm2OUy1KFQpzen.jpg",Los tipos malos: Una Navidad muy mala (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Los%20tipos%20malos-%20Una%20Navidad%20muy%20mala%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/AnfXxsoLBS6JDpu65vHsEvEcWSA.jpg",Menuda Nochebuena (2023)
+http://208.88.245.85/nuevo/la.magia.dla.navidad.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/yNPgjXeeb7vdNI7AQB5SWkkk6si.jpg",Mejor Navidad, ¡imposible! (2023)
+http://vod.tuxchannel.mx/peliculas/720/best%20christmas%20ever%202023.mkv
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/eO4nzd4p7lKxUFQtQF2qui8gGNf.jpg",El sabor de la Navidad (2023)
+http://vod.tuxchannel.mx/peliculas/720/el%20sabor%20de%20la%20navidad%202023.mkv
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/wVo9IIAmIPWztrmR2C25X31QHAk.jpg",Genio (2023)
+http://vod.tuxchannel.mx/peliculas/720/genie%202023.mkv
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/to0HRDQTk7ZceEjehm6TS9dNHqf.jpg",Elia y el elfo (2023)
+http://vod.tuxchannel.mx/peliculas/720/%20me%202023.mkv
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/e0lSKnfAB0p2FJ5roEwjAyy0EA0.jpg",Travesuras Navideñas (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Travesuras%20Navide%C3%B1as%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/of6Ds591FJTKoBHYjDFzH6jlTyK.jpg",Navidad en Candy Cane Lane (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20La%20calle%20de%20la%20Navidad%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",El expreso polar (2004)
+http://vod.tuxchannel.mx/peliculas/720/the%20polar%20express.mkv
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",Klaus (2019)
+http://vod.tuxchannel.mx/peliculas/720/klaus%202019.mkv
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/smxA8yvZ0LzDPer9BIRd4pyOpx1.jpg",El Grinch (2018)
+http://vod.tuxchannel.mx/peliculas/720/el%20grinch.mkv
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xejoSLtxLNkglY5YkojlOkMHz3u.jpg",Shrek Ogrorisa la Navidad (2007)
+http://vod.tuxchannel.mx/peliculas/720/shrek%20the%20halls%202007.mkv
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/h3BnfYljHGn32qraXt7E02Pbkk0.jpg",Mickey y sus amigos juntos otra Navidad (2004)
+http://vod.tuxchannel.mx/peliculas/720/mickeys%20twice%20upon%20a%20christmas%202004.mkv
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg",Guardianes de la Galaxia: especial felices fiestas
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fnoviembr%2FVer%20Guardianes%20de%20la%20Galaxia-%20especial%20felices%20fiestas%20(2022)%20Online%20-%20RePelis24%20Pel%C3%ADculas%20Gratis.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1sRejtiHOZGggZd9RcmdqbapLM5.jpg",El chico que salvó la Navidad (2021)
+https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/pelisnuee%2Fpelisnov%2F%E2%96%B7%20Ver%20El%20Chico%20que%20Salv%C3%B3%20la%20Navidad%20(2021)%20Pel%C3%ADcula%20Online%20Latino.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/6sG0kbEvAi3RRLcGGU5h8l3qAPa.jpg",Crónicas de Navidad 2 (2020)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/peliculanoviembr%2Fcronicas%20de%20navidad%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//5Il2EMSF2KecrUKZPuen6BZmaCP.jpg",Crónicas de Navidad 1 (2018)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/peliculanoviembr%2FThe.Christmas.Chronicles%20LAT.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/6uOadrCfle0n2LOOxHbgWEdnrm2.jpg",Mi pobre angelito 3 (1997)
+https://server30.peliscdn.online/newhls/30b88704c4314493143eaceec826a826/EP.0.1.v0.1677517922.720.m3u8
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",Mi pobre angelito 2 (1992)
+https://server15.peliscdn.online/newhls/3fc258a62d96097e410211ebcbd4796f/EP.0.1.v0.1677454858.720.m3u8
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",Mi pobre angelito 1 (1990)
+https://server30.peliscdn.online/newhls/a689e170439724aceda0f5974cfa64c9/EP.0.1.v1.1677529059.720.m3u8
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg",El regalo prometido (1996)
+https://server11.peliscdn.online/newhls/14af9d686e51255dd9b734cf5684ef33/EP.0.1.v0.1679651900.720.m3u8
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/smxA8yvZ0LzDPer9BIRd4pyOpx1.jpg",El Grinch (2000)
+http://vod.tuxchannel.mx/peliculas/720/how%20the%20grinch%20stole%20christmas.mkv
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5tAN9qy8d1cqDTwLFAhiRJc7q00.jpg",Única (2023)
+https://od.lk/s/NV8xODkzOTY2NjNf/%C3%9Anica%202023--.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nFjNdswa8V8OyhwmhX31JB6ENkG.jpg",Doi Boy (2023)
+http://vod.tuxchannel.mx/peliculas/720/doi%20boy%202023.mkv
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/aM0ViG6LVkN1PQGe9Bon1gQXpc7.jpg",El conejo de terciopelo (2023)
+http://vod.tuxchannel.mx/peliculas/720/the%20velveteen%20rabbit%202023.mkv
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cQvINIqpk81Ax0QCcQXxjGD7Dgv.jpg",Nuevos ricos (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fnoviembre%2FVer%20Nouveaux%20riches%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/80LYrmrs3EcW0hj9aXAwglmXtJF.jpg",Bihter, pasión oculta (2023)
+https://od.lk/s/NV8xODkzMjI2MTZf/HDVER%20Bihter%202023.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/g9aDZSqH5KmsHbMurhni5d2wq6q.jpg",Creyente 2 (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fnoviembre%2FVer%20Creyente%202%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/bkpPTZUdq31UGDovmszsg2CchiI.jpg",Trolls 3: Todos juntos (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fnoviembre%2FT-3-4K-R-1080p.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3LShl6EwqptKIVq6NWOZ0FbZHEe.jpg",La ira de Becky (2023)
+https://od.lk/s/NV8xODYzNjAzMDRf/The%20Wrath%20of%20Becky%20ONLINE%202023.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/t2gpwYUF5xZUOiJKKg23ydpmjKk.jpg",1962 Halloween Masacre (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fnoviembre%2FVer%201962%20Halloween%20Massacre%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1utWajLPvv1R9ZwkD98s2ZEngS.jpg",Sly (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fnoviembre%2FVer%20Sly%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rDzig50dj7VpLwJ7SThbamETK1G.jpg",LEGO Marvel Avengers: Código rojo (2023)
+http://208.88.245.85/nuevo/lego.avengers.codigo.rojo.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xM1yX980L50kjyGuvhykkz4utry.jpg",Hasta la madre! del Día de los muertos (2023)
+http://208.88.245.85/nuevo/hastalamadre.del.diademuertos.latino2023.mkv
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/krA2iXd1PK1vhg4jeWfbSD4fSJi.jpg",Papás a la antigua (2023)
+https://od.lk/s/NV8xODg4OTAyNzZf/HDVer%20Pap%C3%A1s%20a%20la%20antigua%202023.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/mClrCMfGpOqTSiuCTSK67WZ92x5.jpg",Monster High 2 (2023)
+https://od.lk/s/NV8xODg5MjAxODhf/HDVer%20Monster%20High%202%202023.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lEuPvWv3aqAjBoqYi088GvCBRMX.jpg",El lado dulce de la traición (2023)
+https://od.lk/s/NV8xODg5NDUwOTFf/HDVER%20El%20lado%20dulce%20de%20la%20traici%C3%B3n%202023.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uLH5rUkRNwAUt6YqR86f8ewXZEY.jpg",La conferencia (2023)
+https://od.lk/s/NV8xODg3NDk4MjFf/Ver%20Konferensen%202023HFD.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",Wonka (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Wonka%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vcZWJGvB5xydWuUO1vaTLI82tGi.jpg",Napoleón (2023)
+https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/Ver%20Napole%C3%B3n%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_3.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",The Marvels (2023)
+https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2FVer%20The%20Marvels%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_3.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nJCP1ZNTPKlZ7S0Kv3gbmuraAT4.jpg",Venganza Silenciosa (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FWatch%20VS1080LAT%20mp4.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg",Ferrari (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FWatch%20Ferrari%202023%201080p%20WEBRip%20LAT%20DUB%201XBET%20mp4.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/irEqWPmDqCuzsItzefFxX3xWpL8.jpg",Mi gran boda griega 3 (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FWatch%20Gr4n%20Boda%20Gr1ega31080%20mp4.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2zhdUl8KWK8QGATbWTRGexYthZT.jpg",La Cocina (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20The%20Kitchen%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/AcoVfiv1rrWOmAdpnAMnM56ki19.jpg",Wish: El poder de los deseos (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Wish-%20El%20poder%20de%20los%20deseos%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ldfCF9RhR40mppkzmftxapaHeTo.jpg",¡Patos! Un viaje patas arriba (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20%C2%A1Patos!%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/46sp1Z9b2PPTgCMyA87g9aTLUXi.jpg",Lift: Un robo de primera clase (2024)
+https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis2024%2FVer%20Lift-%20Un%20robo%20de%20primera%20clase%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2Sx0Xz8cvnCRNLZjIQWgKWLIaks.jpg",Elijo Creer - El Camino del Campeón (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Elijo%20Creer-%20El%20Camino%20del%20Campe%C3%B3n%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zR6C66EDklgTPLHRSmmMt5878MR.jpg",Liga de la Justicia Parte 1 (2024)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Liga%20de%20la%20Justicia-%20Crisis%20en%20Tierras%20Infinitas%2C%20Parte%201%20(2024)%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg",Rebel Moon: Parte uno (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Rebel%20Moon%20(Parte%20uno)-%20La%20ni%C3%B1a%20del%20fuego%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",Los juegos del hambre: La balada de pájaros cantor
+https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/Ver%20Los%20Juegos%20del%20Hambre-%20Balada%20de%20p%C3%A1jaros%20cantores%20y%20serpientes%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_2.mp4
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/29rhl1xopxA7JlGVVsf1UHfYPvN.jpg",Dejar el mundo atrás (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Dejar%20el%20mundo%20atr%C3%A1s%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/k7rEpZfNPB35FFHB00ZhXHKTL7X.jpg",La sociedad de la nieve (2023)
 https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/Ver%20La%20sociedad%20de%20la%20nieve%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/pWvHS914vuVYGSjt0NRG7LFDYa7.jpg",El bufón (2023)
@@ -5508,213 +5727,213 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spider-Man: A Través del Spider-Verso (2023)
 https://nsfw-dl.glitch.me/1001953408171/7452
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/21sRRZZ5lAYe1aLl9O0oz2qtXe0.jpg", Barbie (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYmFyYmllLTIwMjM=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYmFyYmllLTIwMjM=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/wzAZnkTQZBGCxZTvZk5g5VzgKuR.jpg", Iké Boys (2021) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvaWtlLWJveXM=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvaWtlLWJveXM=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/zigrST623FsCAHKPYIc4vbDTaDQ.jpg", Let&#039;s Get Physical (2022) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbGV0cy1nZXQtcGh5c2ljYWw=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbGV0cy1nZXQtcGh5c2ljYWw=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/jr6612OvuUlZCnvgOSt9ksSmwcz.jpg", Pinball: The Man Who Saved the Game (2022) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvcGluYmFsbC10aGUtbWFuLXdoby1zYXZlZC10aGUtZ2FtZQ==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvcGluYmFsbC10aGUtbWFuLXdoby1zYXZlZC10aGUtZ2FtZQ==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/sJsEfDT6OiG9FWmeVb9HWkAoJue.jpg", Man on the Edge (2022) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbWFuLW9uLXRoZS1lZGdl
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbWFuLW9uLXRoZS1lZGdl
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/vekDYxWUxuHPDrrVD2BtTOOyTFn.jpg", Girl With Iron Arms 3 (2022) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZ2lybC13aXRoLWlyb24tYXJtcy0z
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZ2lybC13aXRoLWlyb24tYXJtcy0z
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/DDpLKrJahb6wexz4ssAOWLZMK6.jpg", Historias para no contar (2022) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvaGlzdG9yaWFzLXBhcmEtbm8tY29udGFy
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvaGlzdG9yaWFzLXBhcmEtbm8tY29udGFy
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/jqSNWHKAmVudHhMDhUuV8qhSJLt.jpg", Amigos hasta la muerte (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYW1pZ29zLWhhc3RhLWxhLW11ZXJ0ZQ==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYW1pZ29zLWhhc3RhLWxhLW11ZXJ0ZQ==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/irDu0rnlzTpl8RkOEl7XG2B88tJ.jpg", Lo desconocido La cueva de los huesos (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbG8tZGVzY29ub2NpZG8tbGEtY3VldmEtZGUtbG9zLWh1ZXNvcw==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbG8tZGVzY29ub2NpZG8tbGEtY3VldmEtZGUtbG9zLWh1ZXNvcw==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/fCcc6pc7PLSoIVdKkU6QzkEIIki.jpg", Me miente, me engaña (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbWUtbWllbnRlLW1lLWVuZ2FuYQ==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbWUtbWllbnRlLW1lLWVuZ2FuYQ==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/ypSpUXamJ7lDCw8MiH1C9RGWKFw.jpg", Mantra (2022) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbWFudHJh
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbWFudHJh
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/lZ8SrE8frfpTzz9JxoTNScscoIL.jpg", Tocando el cielo (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvdG9jYW5kby1lbC1jaWVsbw==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvdG9jYW5kby1lbC1jaWVsbw==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/8r5WZpT43Ihw5dPQRZiSA6rTKW3.jpg", All the World Is Sleeping (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYWxsLXRoZS13b3JsZC1pcy1zbGVlcGluZw==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYWxsLXRoZS13b3JsZC1pcy1zbGVlcGluZw==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/sFeU5zkjDXt1VXabFwyyXtW1l70.jpg", Joy Ride (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvam95LXJpZGU=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvam95LXJpZGU=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/Aje3hkAbXisLUiDQfZPXr02AIJO.jpg", Diario de un viaje inesperado (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZGlhcmlvLWRlLXVuLXZpYWplLWluZXNwZXJhZG8=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZGlhcmlvLWRlLXVuLXZpYWplLWluZXNwZXJhZG8=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/h5A2Z1VdcwByZCGDNBta8MPDFNC.jpg", Los (casi) ídolos de Bahía Colorada (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbG9zLWNhc2ktaWRvbG9zLWRlLWJhaGlhLWNvbG9yYWRh
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbG9zLWNhc2ktaWRvbG9zLWRlLWJhaGlhLWNvbG9yYWRh
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/rl4AkmB2nAMaTaYZQV0pwesOz3e.jpg", La inspiración más profunda (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbGEtaW5zcGlyYWNpb24tbWFzLXByb2Z1bmRh
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbGEtaW5zcGlyYWNpb24tbWFzLXByb2Z1bmRh
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/b7v8nOjPR4ccA4T5f4lUi7XyePs.jpg", Fast Vengeance (2021) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZmFzdC12ZW5nZWFuY2U=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZmFzdC12ZW5nZWFuY2U=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/bWH1s160oYX1vybg3zPnL4ygMpw.jpg", Taurus (2022) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvdGF1cnVz
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvdGF1cnVz
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/87D9w36PemKtNS02NAdqAMOBqsK.jpg", The Possessed (2021) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvdGhlLXBvc3Nlc3NlZA==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvdGhlLXBvc3Nlc3NlZA==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/WIvB3L9mfmXPI6bJnOOwe2zbhO.jpg", El oscuro lugar donde habitan (2021) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZWwtb3NjdXJvLWx1Z2FyLWRvbmRlLWhhYml0YW4=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZWwtb3NjdXJvLWx1Z2FyLWRvbmRlLWhhYml0YW4=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/ib5l9EIDC77ntEZRlBsF4PxFYX8.jpg", Locura de Amor (2022) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvcHJvY3VyYS1zZQ==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvcHJvY3VyYS1zZQ==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/hnzXoDaK346U4ByfvQenu2DZnTg.jpg", El clon de Tyrone (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZWwtY2xvbi1kZS10eXJvbmU=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZWwtY2xvbi1kZS10eXJvbmU=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/wYejOZfJpza6nQDOhLpji7IK80o.jpg", La Emboscada (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbGEtZW1ib3NjYWRhLTIwMjM=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbGEtZW1ib3NjYWRhLTIwMjM=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/oMhMJNUBFRejN9pZ3Bs0Famr54l.jpg", Bermuda Island (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYmVybXVkYS1pc2xhbmQ=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYmVybXVkYS1pc2xhbmQ=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/5H5xPjqnD68jgBt6ZoAFn40OWqN.jpg", Nikki &amp; Nora: Sister Sleuths (2022) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbmlra2ktbm9yYS1zaXN0ZXItc2xldXRocw==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbmlra2ktbm9yYS1zaXN0ZXItc2xldXRocw==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/p4aB6hbrH1Aqim2UkXlb6Jy4A6.jpg", Los futboleros (2007) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbG9zLWZ1dGJvbGVyb3M=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbG9zLWZ1dGJvbGVyb3M=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/yb6UB4WC3znlwU0L4AqMnjR9G9S.jpg", ¿Estás ahí Dios? Soy yo, Margarita (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZXN0YXMtYWhpLWRpb3Mtc295LXlvLW1hcmdhcml0YQ==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZXN0YXMtYWhpLWRpb3Mtc295LXlvLW1hcmdhcml0YQ==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/s7LIE7oNZ6WU4ajf1FaXWyMYdpX.jpg", Asteroid City (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYXN0ZXJvaWQtY2l0eQ==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYXN0ZXJvaWQtY2l0eQ==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/lZ61VGpdRiMUlptBucnjBc64Wrj.jpg", Lo Desconocido: Los Robots Asesinos (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbG8tZGVzY29ub2NpZG8tbG9zLXJvYm90cy1hc2VzaW5vcw==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbG8tZGVzY29ub2NpZG8tbG9zLXJvYm90cy1hc2VzaW5vcw==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/xNWSKYJtFR66zX6CeMSijQC4C0q.jpg", Don Cochecito y los caballeros templarios (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZG9uLWNvY2hlY2l0by15LWxvcy1jYWJhbGxlcm9zLXRlbXBsYXJpb3M=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZG9uLWNvY2hlY2l0by15LWxvcy1jYWJhbGxlcm9zLXRlbXBsYXJpb3M=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/qPxONIm4sWHVMZd4nqgqlz5EwGK.jpg", Unseen (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvdW5zZWVu
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvdW5zZWVu
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/lGqHzUc2Fto5eehtNnJ4z1fzGEC.jpg", Instinto Policial (2020) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvaW5zdGludG8tcG9saWNpYWw=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvaW5zdGludG8tcG9saWNpYWw=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/8Z8r3uwNZnNdwYUDPahhN7Quq5Z.jpg", Noche sin limites (2020) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbm9jaGUtc2luLWxpbWl0ZXM=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbm9jaGUtc2luLWxpbWl0ZXM=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/pwQFzahh1BrGwpv4TFPqZfufKrQ.jpg", Angie: Lost Girls (2020) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYW5naWUtbG9zdC1naXJscw==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYW5naWUtbG9zdC1naXJscw==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/lAgXJGC00jzO8An9On4QHeYMJqP.jpg", Oppenheimer: el dilema de la bomba atómica (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvb3BwZW5oZWltZXItZWwtZGlsZW1hLWRlLWxhLWJvbWJhLWF0b21pY2EtMjAyMw==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvb3BwZW5oZWltZXItZWwtZGlsZW1hLWRlLWxhLWJvbWJhLWF0b21pY2EtMjAyMw==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/11n6tatb6NsrP6Ay4cEIWc297Eb.jpg", Bird Box Barcelona (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYmlyZC1ib3gtYmFyY2Vsb25h
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYmlyZC1ib3gtYmFyY2Vsb25h
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/u9035lysUz3ccloQt0SeIp1Mu8a.jpg", Farang (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZmFyYW5n
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZmFyYW5n
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/jAUbiFP81czreRpD196Fd3xUuZt.jpg", It Knows You&#039;re Alone (2021) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvaXQta25vd3MteW91cmUtYWxvbmU=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvaXQta25vd3MteW91cmUtYWxvbmU=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/9tx4cD3cuHhrdqLwFw8TTbfSKH2.jpg", Justice League: Warworld (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvanVzdGljZS1sZWFndWUtd2Fyd29ybGQ=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvanVzdGljZS1sZWFndWUtd2Fyd29ybGQ=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/2UbeVhIHUVAkFJvHA94TwRCvRhs.jpg", Un gato callejero llamado Bob (2016) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvdW4tZ2F0by1jYWxsZWplcm8tbGxhbWFkby1ib2I=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvdW4tZ2F0by1jYWxsZWplcm8tbGxhbWFkby1ib2I=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/xaZjJeFNKVq8rpd4ElSFlONVLh6.jpg", Lionel Messi: Destiny (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbGlvbmVsLW1lc3NpLWRlc3Rpbnk=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbGlvbmVsLW1lc3NpLWRlc3Rpbnk=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/r9vXaWdpIpmfDz2gskdb2UZD6HX.jpg", Tácticas de amor 2 (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvdGFjdGljYXMtZGUtYW1vci0y
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvdGFjdGljYXMtZGUtYW1vci0y
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/uybOgGtSW3orlkHTO0qYOQcSgfq.jpg", La Leyenda de los Chaneques () 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbGEtbGV5ZW5kYS1kZS1sb3MtY2hhbmVxdWVz
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbGEtbGV5ZW5kYS1kZS1sb3MtY2hhbmVxdWVz
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/zLQHNW0XVT7IWjUahBlpVSba3sC.jpg", Shooting Stars (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvc2hvb3Rpbmctc3RhcnM=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvc2hvb3Rpbmctc3RhcnM=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/fpQPGlGrAkRjsgMwNi5mTXd8UbS.jpg", Dead Man&#039;s Hand (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZGVhZC1tYW5zLWhhbmQ=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZGVhZC1tYW5zLWhhbmQ=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/4x9u5HsxeSJu9SW9Pf6fVVDPwxv.jpg", Cash (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvY2FzaA==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvY2FzaA==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/oc07MMSumgytiBT1fVTuEMDjUQA.jpg", Carmen (2022) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvY2FybWVu
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvY2FybWVu
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/f5V3xlghc9UJG2sF44nzQwyAl4R.jpg", Las estrellas al mediodía (2022) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbGFzLWVzdHJlbGxhcy1hbC1tZWRpb2RpYQ==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbGFzLWVzdHJlbGxhcy1hbC1tZWRpb2RpYQ==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/mUur1MTvH6QZLlMwvGWWDrUIbHe.jpg", Los iniciados (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbG9zLWluaWNpYWRvcw==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbG9zLWluaWNpYWRvcw==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/qV8ntQjXgfEQSzviF73lfgfGxEI.jpg", El último hijo (2021) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZWwtdWx0aW1vLWhpam8=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZWwtdWx0aW1vLWhpam8=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/88RE1p6yK9rG6ViBESh6iRCYmjV.jpg", Cattivo sangue (2022) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvY2F0dGl2by1zYW5ndWU=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvY2F0dGl2by1zYW5ndWU=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/8QVbWBv94BAT9u1q9uJccwOxMzt.jpg", Diabolik - Ginko all&#039;attacco! (2022) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZGlhYm9saWstZ2lua28tYWxsYXR0YWNjbw==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZGlhYm9saWstZ2lua28tYWxsYXR0YWNjbw==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/4c3rU9R5oYexKFWaAHAc195B0RN.jpg", The Angry Black Girl and Her Monster (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvdGhlLWFuZ3J5LWJsYWNrLWdpcmwtYW5kLWhlci1tb25zdGVy
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvdGhlLWFuZ3J5LWJsYWNrLWdpcmwtYW5kLWhlci1tb25zdGVy
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/fyuR5flaWBWWGYcnYOOrHbIDnHj.jpg", Cult Hero (2022) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvY3VsdC1oZXJv
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvY3VsdC1oZXJv
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/wKBMwKwKbICPXAjGVuGQ7CyQ4Qz.jpg", Devilreaux (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZGV2aWxyZWF1eA==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZGV2aWxyZWF1eA==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/s0MJ12Lf412G3KD3VkNGplHtK48.jpg", Kuntilanak 3 (2022) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEva3VudGlsYW5hay0z
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEva3VudGlsYW5hay0z
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/jxhxVQCXq74z0XQdwVHglMovNof.jpg", Coyote (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvY295b3Rl
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvY295b3Rl
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/jobwUwGIKRS1NwdEjYGlk6Rao5H.jpg", Fear the Invisible Man (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZmVhci10aGUtaW52aXNpYmxlLW1hbg==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZmVhci10aGUtaW52aXNpYmxlLW1hbg==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/908fS4q4oxEot5SgDDcwFnKMNxk.jpg", Leave (2022) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbGVhdmU=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbGVhdmU=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/vR2qo6fAsrIyhJ3cbeVdv8YqwWk.jpg", Insidious: La puerta roja (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvaW5zaWRpb3VzLWxhLXB1ZXJ0YS1yb2ph
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvaW5zaWRpb3VzLWxhLXB1ZXJ0YS1yb2ph
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/rvWpNIkOYQb4nd4wF8rw8wifF0G.jpg", Heaven in Hell (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvaGVhdmVuLWluLWhlbGw=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvaGVhdmVuLWluLWhlbGw=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/hNP9da2sQ7g420HqyKqswgGR23G.jpg", Seasons (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvc2Vhc29ucw==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvc2Vhc29ucw==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/6SCokFkHM5dTTTfiGXmPWysucMX.jpg", Unos suegros de armas tomar (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvdW5vcy1zdWVncm9zLWRlLWFybWFzLXRvbWFy
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvdW5vcy1zdWVncm9zLWRlLWFybWFzLXRvbWFy
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/jctRQzzRqv2Ouvgj9HPRzRooafi.jpg", Un lugar por el que luchar (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvdW4tbHVnYXItcG9yLWVsLXF1ZS1sdWNoYXI=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvdW4tbHVnYXItcG9yLWVsLXF1ZS1sdWNoYXI=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/xmGQsMbXKELzD4n78uMoCsgJPi4.jpg", Ned Kelly, comienza la leyenda (2003) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbmVkLWtlbGx5LWNvbWllbnphLWxhLWxleWVuZGE=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbmVkLWtlbGx5LWNvbWllbnphLWxhLWxleWVuZGE=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/83sGKvCv2T2CulYbd40Aeduc7n2.jpg", Misión: Imposible - Sentencia mortal parte uno (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbWlzaW9uLWltcG9zaWJsZS1zZW50ZW5jaWEtbW9ydGFsLXBhcnRlLXVubw==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbWlzaW9uLWltcG9zaWJsZS1zZW50ZW5jaWEtbW9ydGFsLXBhcnRlLXVubw==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/5O994SkqtRyfPftVszeMEYiCAK.jpg", Girl in Room 13 (2022) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZ2lybC1pbi1yb29tLTEz
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZ2lybC1pbi1yb29tLTEz
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/lej9OBBmFdGgDL6YObUkA3GUtUx.jpg", Falsas apariencias (2000) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZmFsc2FzLWFwYXJpZW5jaWFz
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZmFsc2FzLWFwYXJpZW5jaWFz
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/c0kEiqWdbnXjlahZKkeJzHjF3Up.jpg", Lust Stories 2 (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbHVzdC1zdG9yaWVzLTI=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbHVzdC1zdG9yaWVzLTI=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/3Sj5ubQ0BLXd6JuECq52Ira8Oor.jpg", Indiana Jones y el dial del destino (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvaW5kaWFuYS1qb25lcy15LWVsLWRpYWwtZGVsLWRlc3Rpbm8=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvaW5kaWFuYS1qb25lcy15LWVsLWRpYWwtZGVsLWRlc3Rpbm8=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/qa465Bqi8a2YUIQDDi0ZbMDbhLa.jpg", Krakens y Sirenas: Conoce a los Gillman (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEva3Jha2Vucy15LXNpcmVuYXMtY29ub2NlLWEtbG9zLWdpbGxtYW4=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEva3Jha2Vucy15LXNpcmVuYXMtY29ub2NlLWEtbG9zLWdpbGxtYW4=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/asQQdmkKQ2Jz5RlQX3a1hfcuS3G.jpg", Algo pasa en Las Vegas (2008) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYWxnby1wYXNhLWVuLWxhcy12ZWdhcw==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYWxnby1wYXNhLWVuLWxhcy12ZWdhcw==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/oWRY8HRXI1DVWB7rNvpmFWwSnCC.jpg", Nimona (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbmltb25h
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbmltb25h
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/hAKV3WLdHOL313IImAoR2GFWC1W.jpg", Maquíllame Otra Vez (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbWFxdWlsbGFtZS1vdHJhLXZleg==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbWFxdWlsbGFtZS1vdHJhLXZleg==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/9qiDFSGtMJL6nyOL6KGgEz2xsm8.jpg", El lago azul: El despertar (2012) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZWwtbGFnby1henVsLWVsLWRlc3BlcnRhcg==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZWwtbGFnby1henVsLWVsLWRlc3BlcnRhcg==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/x8S5bwSMtoANB0gWqAj60PBFPeW.jpg", Sexo sí... pero seguro (Booty Call) (1997) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvc2V4by1zaS1wZXJvLXNlZ3Vyby1ib290eS1jYWxs
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvc2V4by1zaS1wZXJvLXNlZ3Vyby1ib290eS1jYWxs
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/cA7ul7L1kVzA9XJd11T0ln9E5iI.jpg", Collateral (2004) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvY29sbGF0ZXJhbA==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvY29sbGF0ZXJhbA==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/hVh4hMzkXNLnScudbid6hDvjMPk.jpg", The Siege (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvdGhlLXNpZWdl
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvdGhlLXNpZWdl
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/4ZEQnd2Ar5S0ETnFL4dSenCVpi6.jpg", AFAM (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYWZhbQ==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYWZhbQ==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/tAnwQKYkRlXS6Lgaq5XQ7JqS58x.jpg", You’re Killing Me (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEveW91cmUta2lsbGluZy1tZQ==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEveW91cmUta2lsbGluZy1tZQ==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/eauJLqzFy53KR86VNXnzz3wsD6w.jpg", Mojave Diamonds (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbW9qYXZlLWRpYW1vbmRz
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbW9qYXZlLWRpYW1vbmRz
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/eYGyR8xF8emNs9AJAJSyLXu56kR.jpg", 97 Minutes (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvOTctbWludXRlcw==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvOTctbWludXRlcw==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/bdjdZPgCRFqa0cgXLz8mDsUtiqP.jpg", Efecto nocebo (2022) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZWZlY3RvLW5vY2Vibw==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZWZlY3RvLW5vY2Vibw==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/2WcmeDb6HQjofrWWLsCk94yGdbZ.jpg", Little Bone Lodge (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbGl0dGxlLWJvbmUtbG9kZ2U=
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbGl0dGxlLWJvbmUtbG9kZ2U=
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/ureb0K5VWqwya0ODb0hwBWCwOC6.jpg", Duplicity (2009) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZHVwbGljaXR5
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZHVwbGljaXR5
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/g7JG8Y0cRxbnBA5EIqiMeMQW7nB.jpg", Follow Her (2022) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZm9sbG93LWhlcg==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZm9sbG93LWhlcg==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/hwv8vsBHhuzpiizkuXND2vPYxzm.jpg", Pollen (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvcG9sbGVu
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvcG9sbGVu
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/beVSYThQxFrbMmvYnmRB4USwXlM.jpg", Blondi (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYmxvbmRp
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYmxvbmRp
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/nRzrGmucn0i5VEWqDOsmB58zl2S.jpg", El Arma Secreta (2021) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZWwtYXJtYS1zZWNyZXRh
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZWwtYXJtYS1zZWNyZXRh
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/5KV7WxGjF5O5fhBJnjNME4jkJC7.jpg", Lo desconocido: La pirámide perdida (2023) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbG8tZGVzY29ub2NpZG8tbGEtcGlyYW1pZGUtcGVyZGlkYQ==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbG8tZGVzY29ub2NpZG8tbGEtcGlyYW1pZGUtcGVyZGlkYQ==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/6uH4tdYtGy4h0TXxQBXcNYdKq34.jpg", The Penthouse (2021) 
-https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvdGhlLXBlbnRob3VzZQ==
+https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvdGhlLXBlbnRob3VzZQ==
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",Transformers el despertar de las bestias 
-http://bgtv.site/cue.php?id=64821b66581303e747eb3e46
+http://bgtv.xyz/cue.php?id=64821b66581303e747eb3e46
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spiderman atraves del multiverso 
-http://bgtv.site/cue.php?id=6478ec20581303e7479f9cb0
+http://bgtv.xyz/cue.php?id=6478ec20581303e7479f9cb0
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",Flash 
-http://bgtv.site/cue.php?id=648b7cd3581303e747dc71f8
+http://bgtv.xyz/cue.php?id=648b7cd3581303e747dc71f8
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La Sirenita 
-http://bgtv.site/cue.php?id=6470d06a581303e747228f1e
+http://bgtv.xyz/cue.php?id=6470d06a581303e747228f1e
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",John Wick 4 
-http://bgtv.site/cue.php?id=641de27935a0168668ac0337
+http://bgtv.xyz/cue.php?id=641de27935a0168668ac0337
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//fiVW06jE7z9YnO4trhaMEdclSiC.jpg",Rápidos y furiosos X 2023 
-http://bgtv.site/cue.php?id=64657f35581303e7479d52af
+http://bgtv.xyz/cue.php?id=64657f35581303e7479d52af
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qW4crfED8mpNDadSmMdi7ZDzhXF.jpg",Los Caballeros del Zodiaco: Saint Seiya - El inicio 
-http://bgtv.site/cue.php?id=644bc27c581303e7473c6465
+http://bgtv.xyz/cue.php?id=644bc27c581303e7473c6465
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",Super Mario Bros. La película 
-http://bgtv.site/cue.php?id=642f0970a08fff79d2ade68f
+http://bgtv.xyz/cue.php?id=642f0970a08fff79d2ade68f
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",Guardianes de la Galaxia volumen 3 
-http://bgtv.site/cue.php?id=64540230581303e7478077c1
+http://bgtv.xyz/cue.php?id=64540230581303e7478077c1
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2OaprROMZZeiWsydjGUIkXrv2Z3.jpg",Renfield: Asistente de vampiro 
-http://bgtv.site/cue.php?id=64511049581303e7476c4124
+http://bgtv.xyz/cue.php?id=64511049581303e7476c4124
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vdMKGbGRb7zT2dgPoD6RvJUuJxw.jpg",Ghosting 
-http://bgtv.site/cue.php?id=64471080e798bfd5f39b21d6
+http://bgtv.xyz/cue.php?id=64471080e798bfd5f39b21d6
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",Evil Dead: El despertar 
-http://bgtv.site/cue.php?id=644881f2e798bfd5f3d8c657
+http://bgtv.xyz/cue.php?id=644881f2e798bfd5f3d8c657
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/6oDvtk9ODUMSdXBawId2B8L12vx.jpg",Wwe- Backlash (2023) 7   
 https://71.105.189.194/iptv/peliculas/NUEVAS%2031/Wwe-.Backlash.2023.720p-dual-lat.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vjAMj81oYBryzGBhJk4gcK0M636.jpg",Sombras De Un Crimen   
@@ -14439,6 +14658,8 @@ https://tvinnov.online/Peliculas///(Reminiscencia)%20(2021)LATINO.mp4
 https://tvinnov.online/Peliculas///%c5%a0arlat%c3%a1n%20(Charlatan)%20(2020)SUB.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://i.imgur.com/gj3BkE7.png",ŠARLATAN (CHARLATAN) (2020)LAT
 https://tvinnov.online/Peliculas///%c5%a0arlat%c3%a1n%20(Charlatan)%20(2020)LAT.mp4
+
+
 
 
 
