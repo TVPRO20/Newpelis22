@@ -161,6 +161,8 @@ http://notabasica.com/612132/coco.mkv
 
 
 
+
+
 #EXTM3U
 
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://i.imgur.com/L0zLsl9.png" ,BLACKGHOST 01
@@ -3806,9 +3808,6 @@ http://208.88.245.85/nuevo/bodas.deplomo.2023.dual.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3Ib8vlWTrAKRrTWUrTrZPOMW4jp.jpg",The Jack in the Box: El despertar (2022)
 http://208.88.245.81/nuevo/jackinthebox2.eldespertar.dual.2023.mkv
-
-
-
 
 
 
